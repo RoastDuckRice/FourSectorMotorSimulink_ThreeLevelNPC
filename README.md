@@ -1,0 +1,1 @@
+该模型基于MATLAB 2020b，与对应版本Simulink，Simscape与Simscape Electrical。参数配置与仿真控制采用实时脚本实现。
